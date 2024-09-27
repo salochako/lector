@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div{
+     width: 2000px;
+     height: 200px;
+     background-color: rgb(103, 103, 213);
+    }
+    
+</style>
+<body>
+    
+    <div> class="picture"
+        <body style="background-color:rgb(90, 116, 120);">
+            <h1 style="color:rgb(255, 0, 43);">გამარჯობა </h1>
+<h4>მინდა გაგაცნოთ ჩემი კოტეჯების საიტი</h4>
+
+    <a href ="https://www.google.ge/travel/hotels/entity/ChoQrcGIiMqSub3NARoNL2cvMTF5M2w0dmR0OBAC?utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwi43K6FiOCIAxUAAAAAHQAAAAAQCA&ts=CAEaIAoCGgASGhIUCgcI6A8QChgWEgcI6A8QChgZGAMyAhAAKgkKBToDR0VMGgA">google</a>
+
+<div style="width: 10; background-color: azure;padding: 10px;border-radius: 30px;" >
+
+    <img style="height: 200px; width: 400px;border-radius: 30px;border: 0cqmax;" src="https://i.ibb.co/Y8qxt42/cottage.jpg" alt="cottage" srcset="">
+    <p> დასაჯავშნად მიუთითეთ თქვენთვის სასურველი დრო </p> 
+   
+   
+    <p><input type="name">
+        <input type="date">
+        <input type="person"></p>
+
+<div>
+
+<p="color: brown;"> რა შეგვიძლია ვნახოთ ?</p>
+    
+    <ul>
+        <li> ხვამლის მთა </li>
+        <li> ნიკორძირი</li>
+        <Li>ღვირიშის კანიონი</Li>
+        <ol style="color: rgb(55, 80, 59);"> 1. ხვამლის მთა</ol>
+        <ol style="color: chartreuse;"> 2. ნიკორძირი</ol>
+        <ol style="color: burlywood;"> 3. ღვირიშის</ol>
+    </ul>
+</div>
+    
+</body>
+</html>
